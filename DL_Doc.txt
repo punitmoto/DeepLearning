@@ -1,0 +1,6 @@
+1. LSTM Code for Stock Prediction in TF:
+https://www.datacamp.com/community/tutorials/lstm-python-stock-market
+2. LSTM Concept explained:
+https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/
+3. Approach of stock prediction using TF:
+https://medium.com/mlreview/a-simple-deep-learning-model-for-stock-price-prediction-using-tensorflow-30505541d877
